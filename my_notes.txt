@@ -1,0 +1,22 @@
+look into about_constants.rb
+
+passing in variables from parent class... whoa
+
+
+look into about_triable_project_2.rb
+code for Triange Error
+
+
+ASK ARJUN ABOUT:
+- about_message_passing not clear on line 134 and down
+
+- should review about_proxy_object_project
+
+- about_to_str not clear on line 13, is this overwritting ".to_s"
+
+
+Apprentice Options:
+8thlite
+groupon
+devminds
+hash rocket
